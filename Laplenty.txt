@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laplenty Laundry Services</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+</head>
+<body>
+    <header>
+        <h1>Laplenty Laundry Services</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Laplenty Laundry Services</h2>
+        <p>We offer professional laundry services to meet all your needs.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Wash & Fold</li>
+            <li>Dry Cleaning</li>
+            <li>Ironing</li>
+            <!-- Add more services as needed -->
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For inquiries or to schedule a service, please contact us at:</p>
+        <p>Phone: 09018469836</p>
+        <p>Address:ilaro, Ogun State</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Laplenty Laundry Services. All rights reserved.</p>
+    </footer>
+</body>
+</html>
